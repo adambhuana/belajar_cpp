@@ -2,4 +2,5 @@
 Ini Kumpulan Program Sederhana yang dibangun menggunakan C++
 
 Petunjuk:
-1. Dowload MinGw Developer Studio dan Code Block
+1. Gunakan Software MinGw Developer Studio, Code Block atau Visual Studio
+2. Program-program ini masih berbasis Procedural Programming
